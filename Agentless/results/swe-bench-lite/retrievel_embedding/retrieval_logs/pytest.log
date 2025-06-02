@@ -1,0 +1,19 @@
+2025-06-02 17:13:31,407 - INFO - Processing bug pytest
+2025-06-02 17:13:31,573 - INFO - Total number of considered files: 1
+2025-06-02 17:13:31,574 - INFO - Total number of documents: 1
+2025-06-02 17:13:31,899 - INFO - Retrieving with query:
+改一下错误
+2025-06-02 17:13:32,243 - INFO - Embedding Tokens: 0
+2025-06-02 17:13:32,243 - INFO - ================
+2025-06-02 17:13:32,243 - INFO - pytest/main.py
+2025-06-02 17:13:32,243 - INFO - age = 18
+if age >= 18:
+    print(f"\n{name} 已经成年了。")
+else:
+    print(f"\n{name} 尚未成年。")
+
+# 一个简单的循环
+print("\n--- 循环示例 ---")
+fruits = ["苹果", "香蕉", "橙子"]
+for fruit in fruits:
+    print(f"我喜欢吃 {fruit}。")
